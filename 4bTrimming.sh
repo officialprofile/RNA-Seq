@@ -2,8 +2,8 @@
 
 declare COMMAND=''
 
-declare -r PAIRED_END=false
-declare -r CLIP=3 	# 1 Truseq
+declare -r PAIRED_END="true"
+declare -r CLIP=1 	# 1 Truseq
 			# 2 Nextera
 			# 3 Skip adapter trimming
 declare -r leading=10
@@ -19,7 +19,7 @@ declare -r OUTPUT_DIRECTORY='trimmomaticFASTQ'
 mkdir -p "$OUTPUT_DIRECTORY"
 
 while read p; do
-	if [ "$PAIRED_END"=true ];
+	if [ "$PAIRED_END" = "true" ];
 	then
 		COMMAND+="TrimmomaticPE "
 		COMMAND+="${INPUT_DIRECTORY}/${p}_1.fastq.gz "
@@ -41,7 +41,7 @@ while read p; do
 
 	COMMAND+="-baseout ${OUTPUT_DIRECTORY}/${p}.fastq.gz "
 	COMMAND+="LEADING:${leading} TRAILING:${trailing} HEADCROP:${headcrop} "
-	COMMAND+="SLIDINGWINDOW:${slidingwindow} MINLEN:${window}";
+	COMMAND+="SLIDINGWINDOW:${slidingwindow} MINLEN:${minlen}";
 done < x.txt
 echo "$COMMAND"
 #eval "$COMMAND"
