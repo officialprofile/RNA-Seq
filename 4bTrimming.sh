@@ -6,15 +6,15 @@ declare -r PAIRED_END="true"
 declare -r CLIP=1 	# 1 Truseq
 			# 2 Nextera
 			# 3 Skip adapter trimming
-declare -r leading=10
-declare -r trailing=10
-declare -r headcrop=5
+declare -r leading=3
+declare -r trailing=3
+declare -r headcrop=0
 declare -r slidingwindow="4:15"
-declare -r minlen=40
-declare -r illuminaclip="2:30:10"
+declare -r minlen=50
+declare -r illuminaclip="2:30:10:2:keepBothReads"
 
-declare -r INPUT_DIRECTORY='cutadaptFASTQ'
-declare -r OUTPUT_DIRECTORY='trimmomaticFASTQ'
+declare -r INPUT_DIRECTORY='RawFASTQ'
+declare -r OUTPUT_DIRECTORY='trimFASTQ'
 
 mkdir -p "$OUTPUT_DIRECTORY"
 
