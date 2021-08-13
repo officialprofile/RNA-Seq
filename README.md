@@ -1,4 +1,4 @@
 # Next Generation Sequencing
 
 
-<img src="img/protocol.png" width="500px" />
+<p align = 'center'> <img src="img/protocol.png" width="700px" /> </p>
