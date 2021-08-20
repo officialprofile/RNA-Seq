@@ -30,12 +30,13 @@ Legend: :fire: - especially worth reading/watching, :heavy_check_mark: - open ac
  3. Sung W. **Algorithms for Next-Generation Sequencing**. Chapman & Hall/CRC Mathematical and Computational Biology Series, 2017. ISBN 978-1-4665-6550-0.
  4. Masoudi-Nejad A, Zahra Narimani Z, Hosseinkhan N. **Next Generation Sequencing and Sequence Assembly. Methodologies and Algorithms**. Springer Briefs in Systems Biology, 2013. ISBN 978-1-4614-7725-9.
  5. Low l, Tammi M. **Bioinformatics: a practical handbook of next generation sequencing and its applications**. World Scientific, 2017. ISBN 9789813144743.
+ 6. :heavy_check_mark: :fire: Amezquita R, Lun A, Hicks S, Gottardo R. **Orchestrating Single-Cell Analysis with Bioconductor**. Bioconductor, 2020. https://github.com/Bioconductor/OrchestratingSingleCellAnalysis
 
 ## Videos
 
 ## Other
-
-
+ 1. SIH Bioinformatics Training. https://sydney-informatics-hub.github.io/training-RNAseq/index.html
+ 2. :heavy_check_mark: Harvard Chan Bioinformatics Core. https://hbctraining.github.io/main/
 
 
 ## Flowcharts
