@@ -33,11 +33,16 @@ Legend: :fire: - especially worth reading/watching, :heavy_check_mark: - open ac
  6. :heavy_check_mark: :fire: Amezquita R, Lun A, Hicks S, Gottardo R. **Orchestrating Single-Cell Analysis with Bioconductor**. Bioconductor, 2020. https://github.com/Bioconductor/OrchestratingSingleCellAnalysis
 
 ## Videos
+1. :heavy_check_mark: :fire: Bioinformatics DotCa. Fundamentals of Genome Assembly (51 min). https://www.youtube.com/watch?v=5wvGapmA5zM
 
-## Other
+## Training materials
  1. SIH Bioinformatics Training. https://sydney-informatics-hub.github.io/training-RNAseq/index.html
  2. :heavy_check_mark: Harvard Chan Bioinformatics Core. https://hbctraining.github.io/main/
+ 3. UConn. Computational Biology Core tutorials. https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/
+ 4. Canadian Bioinformatics Workshops. https://bioinformaticsdotca.github.io
 
+## Other
+1. :heavy_check_mark: PennState. Statistical Analysis of Genomics Data. https://online.stat.psu.edu/stat555/node/13/
 
 ## Flowcharts
 
