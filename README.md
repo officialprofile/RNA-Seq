@@ -1,4 +1,4 @@
-# Valuable resources 
+# Useful resources 
 
  - :fire: Must read/watch
  - :heavy_check_mark: Open access
