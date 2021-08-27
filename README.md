@@ -34,7 +34,8 @@
  6. :heavy_check_mark: :fire: Amezquita R, Lun A, Hicks S, Gottardo R. **Orchestrating Single-Cell Analysis with Bioconductor**. Bioconductor, 2020. https://github.com/Bioconductor/OrchestratingSingleCellAnalysis
 
 ## Videos
-1. :heavy_check_mark: :fire: Bioinformatics DotCa. Fundamentals of Genome Assembly (51 min). https://www.youtube.com/watch?v=5wvGapmA5zM
+1. :heavy_check_mark: :fire: Simpson J. **Fundamentals of Genome Assembly**. Bioinformatics DotCa (51 min). https://www.youtube.com/watch?v=5wvGapmA5zM
+2. :heavy_check_mark: Simpson J. **De novo assembly**. Dioinformatics DotCa (56 min). https://www.youtube.com/watch?v=sysnKQvqmnk
 
 ## Training materials
  1. SIH Bioinformatics Training. https://sydney-informatics-hub.github.io/training-RNAseq/index.html
