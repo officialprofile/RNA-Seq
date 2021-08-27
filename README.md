@@ -45,6 +45,8 @@
 ## Other
 1. :heavy_check_mark: PennState. Statistical Analysis of Genomics Data. https://online.stat.psu.edu/stat555/node/13/
 
-## Flowcharts
+## Charts
 
-<p align = 'center'> <img src="img/protocol.png" width="700px" /> </p>
+<p align = 'center'> <img src="img/roadmap.png" width="100%" /> </p>
+
+<p align = 'center'> <img src="img/protocol.png" width="600px" /> </p>
