@@ -15,7 +15,8 @@
  9. :heavy_check_mark: Zhu Z, Zhang Y, Zhen Ji Z, He S, Yang X. **High-throughput DNA sequence data compression**. Briefings in Bioinformatics 2015, **16**:1, 1–15. https://doi.org/10.1093/bib/bbt087
  10. :heavy_check_mark: Law CW, Chen Y, Wei Shi W, Smyth GK. **voom: precision weights unlock linear model analysis tools for RNA-seq read counts**. Genome Biology 2014, **15**:R29. https://doi.org/10.1186/gb-2014-15-2-r29
  11. :heavy_check_mark: Soneson C, Love MI and Robinson MD. **Differential analyses for RNA-seq: transcript-level estimates improve gene-level inferences**. F1000Research 2016, **4**:1521. https://doi.org/10.12688/f1000research.7563.2
- 12. :heavy_check_mark: Dominguez Del Angel V, Hjerde E, Sterck L et al. **Ten steps to get started in Genome Assembly and Annotation**. F1000Research 2018, **7**(ELIXIR):148. https://doi.org/10.12688/f1000research.13598.1 
+ 12. :heavy_check_mark: Dominguez Del Angel V, Hjerde E, Sterck L et al. **Ten steps to get started in Genome Assembly and Annotation**. F1000Research 2018, **7**(ELIXIR):148. https://doi.org/10.12688/f1000research.13598.1
+ 13. :heavy_check_mark: Compeau PEC, Pevzner PA, Tesler G. **How to apply de Bruijn graphs to genome assembly**. Nature Biotechnology 2011, **29**:11. https://doi.org/10.1038%2Fnbt.2023 (free version is available on [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5531759/))
 
 
 ## Workflows
