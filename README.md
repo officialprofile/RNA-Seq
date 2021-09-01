@@ -38,6 +38,8 @@
 ## Videos
 1. :heavy_check_mark: :fire: Simpson J. **Fundamentals of Genome Assembly**. Bioinformatics DotCa (51 min). https://www.youtube.com/watch?v=5wvGapmA5zM
 2. :heavy_check_mark: Simpson J. **De novo assembly**. Dioinformatics DotCa (56 min). https://www.youtube.com/watch?v=sysnKQvqmnk
+3. :heavy_check_mark: Chimenti M. **Introduction to RNA-Seq for Researchers**. Iowa Institute of Human Genetics (31 min). https://www.youtube.com/watch?v=7BLS_YY9HeM
+
 
 ## Training materials
  1. SIH Bioinformatics Training. https://sydney-informatics-hub.github.io/training-RNAseq/index.html
@@ -53,3 +55,5 @@
 <p align = 'center'> <img src="img/roadmap.png" width="100%" /> </p>
 
 <p align = 'center'> <img src="img/protocol.png" width="600px" /> </p>
+
+<p align = 'center'> <img src="img/precisionrecall.png" width="100%" /> </p>
