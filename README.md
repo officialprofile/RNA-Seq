@@ -26,6 +26,7 @@
  3. :heavy_check_mark: Lun A, Davis J. McCarthy D, Marioni J. **A step-by-step workflow for low-level analysis of singlecell RNA-seq data with Bioconductor**. F1000Research 2016, **5**:2122. https://doi.org/10.12688/f1000research.9501.2
  4. Chen Y, Lun ATL and Smyth GK. **From reads to genes to pathways: differential expression analysis of RNA-Seq experiments using Rsubread and the edgeR quasi-likelihood pipeline**. F1000Research 2016, **5**:1438. https://doi.org/10.12688/f1000research.8987.2
  5. Collado-Torres L, Nellore A and Jaffe AE. **recount workflow: Accessing over 70,000 human RNA-seq samples with Bioconductor**. F1000Research 2017, **6**:1558. https://doi.org/10.12688/f1000research.12223.1  
+ 6. :heavy_check_mark: :fire: Pantano L. **QC and downstream analysis for differential expression RNA-seq**. https://bioconductor.org/packages/release/bioc/vignettes/DEGreport/inst/doc/DEGreport.html
 
 ## Books
  1. :fire: Korpelainen E, Tuimala J, Somervuo P, Huss M, Wong G. **RNA-seq Data Analysis. A Practical Approach**. Chapman & Hall/CRC Mathematical and Computational Biology Series, 2014. ISBN 978-1-4665-9501-9.
