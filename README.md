@@ -53,9 +53,9 @@
 
 ## Charts
 
-<p align = 'center'> <img src="img/workflow1.jpg" width="100%" /> </p>
+<p align = 'center'> <img src="img/workflow1.jpg" width="600px" /> </p>
 
-<p align = 'center'> <img src="img/workflow2.jpg" width="100%" /> </p>
+<p align = 'center'> <img src="img/workflow2.jpg" width="600px" /> </p>
 
 <p align = 'center'> <img src="img/roadmap.png" width="100%" /> </p>
 
