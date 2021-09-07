@@ -42,6 +42,7 @@
 3. :heavy_check_mark: Chimenti M. **Introduction to RNA-Seq for Researchers**. Iowa Institute of Human Genetics (31 min). https://www.youtube.com/watch?v=7BLS_YY9HeM
 4. :heavy_check_mark: Schatz M. **Dickens to DNA: Introduction to de novo sequence assembly**. DNA Learning Center (61 min).
  https://www.youtube.com/watch?v=oMjTBV00zP8
+5. :heavy_check_mark: Williams J. **Intro to RNA-Seq with Jupyter**. DNA Learning Center (48 min - part 1, 48 min - part 2) https://www.youtube.com/watch?v=7hjd5AsJ0Jw https://www.youtube.com/watch?v=6rHWmDmVwlE
 
 
 ## Training materials
