@@ -17,7 +17,8 @@
  11. :heavy_check_mark: Soneson C, Love MI and Robinson MD. **Differential analyses for RNA-seq: transcript-level estimates improve gene-level inferences**. F1000Research 2016, **4**:1521. https://doi.org/10.12688/f1000research.7563.2
  12. :heavy_check_mark: Dominguez Del Angel V, Hjerde E, Sterck L et al. **Ten steps to get started in Genome Assembly and Annotation**. F1000Research 2018, **7**(ELIXIR):148. https://doi.org/10.12688/f1000research.13598.1
  13. :heavy_check_mark: Compeau PEC, Pevzner PA, Tesler G. **How to apply de Bruijn graphs to genome assembly**. Nature Biotechnology 2011, **29**:11. https://doi.org/10.1038%2Fnbt.2023 (free version is available on [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5531759/))
- 14. :heavy_check_mark: Conesa A, Madrigal P, Tarazona S, et al. **A survey of best practices for RNA-seq data analysis**. Genome Biology 2016, **17**:13. https://doi.org/10.1186/s13059-016-0881-8 
+ 14. :heavy_check_mark: Conesa A, Madrigal P, Tarazona S, et al. **A survey of best practices for RNA-seq data analysis**. Genome Biology 2016, **17**:13. https://doi.org/10.1186/s13059-016-0881-8
+ 15. :heavy_check_mark: Everaert C, Luypaert M, Maag JLV, et al. **Benchmarking of RNA-sequencing analysis workflows using whole-transcriptome RT-qPCR expression data**. Scientific Report 2017, **7**:1559. https://doi.org/10.1038/s41598-017-01617-3
 
 
 ## Workflows
@@ -43,6 +44,7 @@
 4. :heavy_check_mark: Schatz M. **Dickens to DNA: Introduction to de novo sequence assembly**. DNA Learning Center (61 min).
  https://www.youtube.com/watch?v=oMjTBV00zP8
 5. :heavy_check_mark: Williams J. **Intro to RNA-Seq with Jupyter**. DNA Learning Center (48 min - part 1, 48 min - part 2) https://www.youtube.com/watch?v=7hjd5AsJ0Jw https://www.youtube.com/watch?v=6rHWmDmVwlE
+6. :heavy_check_mark: Williams J. **RNA-Seq with DNA Subway**. DNA Learning Center (59 min - part 1, 58 min - part 2, 50 min - part 3) https://youtu.be/dzbMHhHlBfA https://youtu.be/TIM_200Vwe8 https://youtu.be/JWuGfhQ3OCg
 
 
 ## Training materials
