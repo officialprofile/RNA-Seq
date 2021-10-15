@@ -19,6 +19,7 @@
  13. :heavy_check_mark: Compeau PEC, Pevzner PA, Tesler G. **How to apply de Bruijn graphs to genome assembly**. Nature Biotechnology 2011, **29**:11. https://doi.org/10.1038%2Fnbt.2023 (free version is available on [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5531759/))
  14. :heavy_check_mark: Conesa A, Madrigal P, Tarazona S, et al. **A survey of best practices for RNA-seq data analysis**. Genome Biology 2016, **17**:13. https://doi.org/10.1186/s13059-016-0881-8
  15. :heavy_check_mark: Everaert C, Luypaert M, Maag JLV, et al. **Benchmarking of RNA-sequencing analysis workflows using whole-transcriptome RT-qPCR expression data**. Scientific Report 2017, **7**:1559. https://doi.org/10.1038/s41598-017-01617-3
+ 16. :heavy_check_mark: Yendrek1 CR, Ainsworth EA, Thimmapuram J. **The bench scientist's guide to statistical analysis of RNA-Seq data**. BMC Research Notes 2012, **5**:506. https://doi.org/10.1186/1756-0500-5-506
 
 
 ## Workflows
