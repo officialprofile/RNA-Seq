@@ -21,6 +21,7 @@
  15. :heavy_check_mark: Everaert C, Luypaert M, Maag JLV, et al. **Benchmarking of RNA-sequencing analysis workflows using whole-transcriptome RT-qPCR expression data**. Scientific Report 2017, **7**:1559. https://doi.org/10.1038/s41598-017-01617-3
  16. :heavy_check_mark: Yendrek1 CR, Ainsworth EA, Thimmapuram J. **The bench scientist's guide to statistical analysis of RNA-Seq data**. BMC Research Notes 2012, **5**:506. https://doi.org/10.1186/1756-0500-5-506
  17. :heavy_check_mark: :fire: Law CW, Zeglinski K, Dong X, Alhamdoosh M, Smyth GK, Ritchie ME. **A guide to creating design matrices for gene expression experiments**. https://bioconductor.org/packages/release/workflows/vignettes/RNAseq123/inst/doc/designmatrices.html
+ 18.  :heavy_check_mark: Koch CM, et al. **A Beginner’s Guide to Analysis of RNA Sequencing Data**. Am J Respir Cell Mol Biol. 2018,  **59**:2.  https://dx.doi.org/10.1165%2Frcmb.2017-0430TR
 
 
 ## Workflows
