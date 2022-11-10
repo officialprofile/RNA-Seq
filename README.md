@@ -59,6 +59,7 @@
 ## Other
 1. :heavy_check_mark: PennState. Statistical Analysis of Genomics Data. https://online.stat.psu.edu/stat555/node/13/
 2. :heavy_check_mark: :fire: iDEP: an integrated web application for differential expression and pathway analysis of RNA-Seq data http://bioinformatics.sdstate.edu/idep94/
+3. :heavy_check_mark: :fire: Cresko Lab. RNA-seqlopedia. https://rnaseq.uoregon.edu/
 
 ## Charts
 
